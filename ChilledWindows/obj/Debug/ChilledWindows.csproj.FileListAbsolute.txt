@@ -1,0 +1,12 @@
+C:\Users\Zerockm\Desktop\uwu\ChilledWindows\bin\Debug\ChilledWindows.exe
+C:\Users\Zerockm\Desktop\uwu\ChilledWindows\bin\Debug\ChilledWindows.pdb
+C:\Users\Zerockm\Desktop\uwu\ChilledWindows\obj\Debug\ChilledWindows.csprojAssemblyReference.cache
+C:\Users\Zerockm\Desktop\uwu\ChilledWindows\obj\Debug\MainWindow.g.cs
+C:\Users\Zerockm\Desktop\uwu\ChilledWindows\obj\Debug\App.g.cs
+C:\Users\Zerockm\Desktop\uwu\ChilledWindows\obj\Debug\ChilledWindows_MarkupCompile.cache
+C:\Users\Zerockm\Desktop\uwu\ChilledWindows\obj\Debug\ChilledWindows_MarkupCompile.lref
+C:\Users\Zerockm\Desktop\uwu\ChilledWindows\obj\Debug\MainWindow.baml
+C:\Users\Zerockm\Desktop\uwu\ChilledWindows\obj\Debug\ChilledWindows.g.resources
+C:\Users\Zerockm\Desktop\uwu\ChilledWindows\obj\Debug\ChilledWindows.csproj.CoreCompileInputs.cache
+C:\Users\Zerockm\Desktop\uwu\ChilledWindows\obj\Debug\ChilledWindows.exe
+C:\Users\Zerockm\Desktop\uwu\ChilledWindows\obj\Debug\ChilledWindows.pdb
